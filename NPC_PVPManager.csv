@@ -1,0 +1,3 @@
+NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
+4,1,23,16,8000,1,Macpallan,I supposed you are here about a reward?,1229,1228
+4,2,32,16,8000,2,Preedon,Did you come here for some sort of compensation?,1441,1440

@@ -1,0 +1,7 @@
+NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
+11,1,21,16,8000,1,Guild-Master of Light,Did you come to create a guild?,,
+11,2,17,16,8000,2,Guild-Master of Fury,Did you come to create a clan?,,
+11,3,37,16,8000,2,Almus,Are you trying to create a new clan?  There will be no problem whatsoever as long as you follow these few basic steps.,,
+11,4,9,16,8000,1,Dylan,Do you want to make a new guild?  There will be no problem whatsoever as long as you follow these few basic steps.,,
+11,5,29,16,8000,1,Izac Contrium,"Welcome! Please, make yourself comfortable.",,
+11,6,17,16,8000,2,Opillian Corner,This is the best place to ready yourself before battles.,,

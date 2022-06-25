@@ -1,0 +1,74 @@
+NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
+10,1,34,16,8000,1,Pillon,"I'm a Narus's best apprectice, Pillon! Are you interested in botany?",,
+10,2,13,16,8000,1,Lette,I saw you eyeing my sheep! The sheep are mine! And don't mess with those cows either!,,
+10,3,42,16,8000,1,Elentari,You have a beautiful eyes. Some say the eyes are windows to the soul...  have you heard of Soul Magic?,,
+10,4,38,16,8000,1,Mellie,Are you curious about a Soul collection? I think I can teach you some things about it.,121 | 122,121
+10,5,34,16,8000,1,Naad,"Oh,oh, You truly have an amazing skill. Well, Do you want to learn about a soul collection?",281,281
+10,6,34,16,8000,1,Tyiaro,I always make mistakes. I would be much better if I had taken after Teaerin.,,
+10,7,42,16,8000,1,Teaerin,Tyiaro is far too humble. Her skills are much better than mine.,,
+10,8,11,16,8000,1,Moku,Moku is the best when it comes to mining skills! Not a soul in Teos can match Moku's ability.,,
+10,9,11,16,8000,1,Ballen,Mining is all about spirit!! Nothing more is needed!,,
+10,10,26,16,8000,1,Mona,"Do you wanna learn the mining skill? Well, let me teach you the basics.",,
+10,11,26,16,8000,1,Morin,"Hello, My name is Morin. Do you wish to learn how to make a mining tool or a simple weapon?",,
+10,12,11,16,8000,1,Timber,"If you want to know how to cut down a tree, Timber will have no problems teaching you. Timber can explain the details far better than anyone else!",31,17
+10,13,11,16,8000,1,Carter,Make sure you sharpen your axe blade after every day of cutting. It's a shame to climb up the mountain only to find your axe too dull to cut anything down.,123,
+10,14,11,16,8000,1,Paulo,Do you want to learn how to collect timber? All you need is a focused mind and one sharp axe.,823,822 | 823
+10,15,26,16,8000,1,Karen,"You can make lots of things from trees! Much more than you can imagine. For example: tables, chairs... um, smaller trees... toothpicks...  the possibilities are infinite!",184,184
+10,16,41,16,8000,1,Stewart,"If you want to be healthy, eating a variety of foods is most important! Why don't you learn how to cook?",814,814
+10,17,26,16,8000,1,Marcia,Exploring ruins is very exciting. It's one of my hobbies.,52 | 835,52
+10,18,11,16,8000,1,Mano,"Strong armor is crucial in battle. You probably know this already, don't you?",819 | 1227,820 | 1226
+10,19,42,16,8000,1,Curni,Blast it! I failed again! What the hell am i doing wrong?!!?!,191 | 827,192 | 826
+10,20,34,16,8000,1,Istarr,I'll teach you a simple spell. Please pay attention to what I'm about to explain.,829,
+10,21,11,16,8000,1,Larry,"The best part of fishing is when you first feel that fish hit your bait! The small tug on the line... The bending of the pole... If you know this feeling already, you will make an excellent fisherman.",,
+10,22,34,16,8000,1,Adein,Songs about everyday heroes are the ones i like the best.,49,49 | 286
+10,23,6,16,8000,1,Zimmer,Nowadays fishing is the only thing that makes me happy.,831,831
+10,24,26,16,8000,1,Cordelia,"I am Cordelia, and I love to fish. If you have any questions about fishing, go ahead and ask.",47 | 833 | 834,47 | 832 | 833
+10,25,18,16,8000,2,Leimon,Do you want to learn about a herb collection? Let me tell you a few of the basics.,,
+10,26,18,16,8000,2,Platz,"You look curious about the ways of alchemy. I will teach you, but I charge tuition.",,
+10,27,20,16,8000,2,Allbum,"Cooking is an art as well. If you think it's just boiling water, then you've totally missed the point.",,74
+10,28,45,16,8000,2,Lamu,I'll teach you how to raise animals. Do you want to learn? Animal husbandry is exciting stuff!,,
+10,29,15,16,8000,2,Nosh,"I know how to make any axe sharp. If you want to learn, you must pay the price.",80,148
+10,30,15,16,8000,2,Noga,"If you want to show off your strength, dig a ditch! I'll teach you how.",,
+10,31,18,16,8000,2,Quion,I'm collecting souls. Do you want to know what Soul Collecting is?,274 | 791,792
+10,32,20,16,8000,2,Zea,I can teach you a way to keep yourself amused. Do you want to learn?,119,119
+10,33,15,16,8000,2,Tran,"If you want to make a good charcoal, you need a nice tree first.",76,76
+10,34,45,16,8000,2,Heda,I can teach you the basic steps about how to cut down a tree. Do you want to learn?,,
+10,35,15,16,8000,2,Slo,I like making things out of trees. It's fun!,280,
+10,36,15,16,8000,2,Rato,Do you need meat or leather? I will let you know what's good and what isn't!,796,
+10,37,15,16,8000,2,Kaff,"I can teach you many recipes you could make a lot of gold with, but first you must pay me your tuition.",808 | 1236,807 | 1235
+10,38,30,16,8000,2,Ratina,Do you want to make potions and medicine? Did you want me to help you?,89 | 90,89 | 92
+10,39,37,16,8000,2,Nazek,Come here to learn casting magic? Let me explain how it's done one by one.,1237,1236
+10,40,30,16,8000,2,Pokale,Do you need stronger medicine? You'd better be careful not to get addicted to the stuff.,118,
+10,41,46,16,8000,2,Pauke,A humble attitude is needed. I will teach you if you are pure of heart and have an open mind.,110 | 111 | 239 | 806,83 | 109 | 110 | 239 | 806
+10,42,30,16,8000,2,Empty Sled,"Ah ah, you came to learn alchemy, right? How much have you learned so far?",108 | 109,108 | 111
+10,43,46,16,8000,2,Patser,Do you want to learn the basics of alchemy? You have to cultivate your ability steadily.,104 | 105,104 | 105
+10,44,37,16,8000,2,Arkus,"Ah, are you here to learn the art of casting spells?",918 | 919 | 928 | 929 | 938 | 939 | 948 | 949 | 958 | 959 | 968 | 969,917 | 918 | 927 | 928 | 937 | 938 | 947 | 948 | 957 | 958 | 967 | 968
+10,45,49,16,8000,2,Lolo,Do you want to learn how to collect herbs?,,803
+10,46,15,16,8000,2,Tusan,"I will teach you how to harvest good herbs. I'll not tell you twice, so listen carefully.",794,794
+10,47,45,16,8000,2,Bashu,Good to meet you! Did you want to learn how to skin and animal and harvest it's hide and meat?,,
+10,48,15,16,8000,2,Talpa,"If you plan on selling your meats and hides at the market, you must sell them while they are fresh!",797,796 | 797
+10,49,15,16,8000,2,Beng,Did you come here to learn how to cook? I hope you're skilled with a knife.,,
+10,50,15,16,8000,2,Hekto,"Ahh, so you wish to learn how to make armor, eh? You've come to the right place.",,
+10,51,11,16,8000,1,Garens,Making weapons is my passion! You're in luck because I am looking for an apprentice!,,
+10,52,38,16,8000,1,Wenya,I'll teach you all of my knowledge. Just follow my instructions and do not deviate from what i tell you.,,
+10,53,34,16,8000,1,Jipirr,I'm an alchemist. My name is Jipirr. What recipe would you like to learn?,,
+10,54,34,16,8000,1,Randal,"Which order sheet do you want to make? If you don't know well, I'll be happy to teach you.",,
+10,55,34,16,8000,1,Noeton,War makes me really sad. I must do this with a pious heart.,,
+10,56,27,16,8000,2,Banntz,Do not judge me by my appearance! My ability is not that useless.,,
+10,57,36,16,8000,2,Parci,"Are you here to learn something? Fine, Let's see what I can teach you.",,
+10,58,36,16,8000,2,Liipe,"You look like you are dying to be an amazing fighter. If so, well designed armor is needed. Don't you think?",,
+10,59,18,16,8000,2,Killoen,Have you gone to the Panakeia Lab? I'm from there you know. You'd never imagine how strict it is there.,,
+10,60,37,16,8000,2,Libelus,Tell me what you need.,,
+10,61,30,16,8000,2,Shandil,I'm quite familiar with Soul Magic. Did you want to learn about it?,,
+10,62,42,16,8000,1,Faila,We have come across many noble souls who have devoted themselves to war.,,1075
+10,63,34,16,8000,1,Turma,Do you want to choose a different path others have never chosen before? All you have to do is follow me. I know this path quite well already.,,
+10,64,38,16,8000,1,Aica,The only reason we are here right now is because of all of my efforts. You didn't know that did you?,1080,1080
+10,65,47,16,8000,1,Siul,Hellfire soldiers must be studied. We can learn much from them.,1075,
+10,66,34,16,8000,1,Huin,Do you want to know about magic? It seems your ability is still too limited.,,
+10,67,49,16,8000,2,Elline,Wandering souls in Astenes... Am I the only one who can see them?,,
+10,68,45,16,8000,2,Mienya,"Do you want to talk to me for a moment? I mean, if you got nothing else to do...",,
+10,69,20,16,8000,2,Keine,Corrupt miners?!?! What on earth is wrong with this world?,,
+10,70,46,16,8000,2,Thillue,There are many creatures we have yet to examine! How on earth can I discover anything without proper blood samples?,1087 | 1093,1087 | 1093
+10,71,16,16,8000,2,Teikum,Memorization is not the only thing when it comes to casting spells!,,
+10,72,65,16,8000,1,Holiday Mizer,Am I too late?  What day is it?!?! You! Go buy me a turkey as big as you! I'm a new woman!!!,,
+10,73,16,16,8000,2,Ussen Weacom,"I love painting, but working in this horrible place is getting to be too much for me...  I really need to quit this horrible job.",,

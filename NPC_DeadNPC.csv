@@ -1,0 +1,8 @@
+NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
+12,1,59,16,8000,2,Velikian,Gasp! (Felled by serious injury. Darkness will take this poor soul away soon.),400,
+12,2,59,16,8000,2,Cuiltaros,"(This corpse stopped breathing centuries ago. So old is this decayed body, only a musty smell remains in the air.)",,
+12,3,57,16,8000,1,Leterr Phillon,(This body breathes no more.),508,
+12,4,56,16,8000,2,Deatheater Corpse,"(Lifeless, this body kills no longer.)",776,
+12,5,58,16,8000,1,Patroler Corpse,(This human stopped breathing a long time ago. The smell is foul.),,824
+12,6,112,16,8000,0,??? ????,"...???...(?? ?? ?, ?? ??? ?? ?? ??.)",,
+12,7,122,16,8000,0,Agherus,uh..... (He looks so painful.),1567 | 1579,1566 | 1578

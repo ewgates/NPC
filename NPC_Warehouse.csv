@@ -1,0 +1,35 @@
+NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
+6,1,38,16,8000,1,Dana Druimos,...Why?...,,
+6,2,41,16,8000,1,Donne Straider,I have no idea why people keep killing one another in this war. I would rather sing a song and enjoy my life.,,
+6,3,14,16,8000,1,Norman Diero,Nice to meet you! My warehouse is secure and clean. Safest place around.,1225,1224
+6,4,30,16,8000,2,Ellda Rwena,Please let me carry those heavy items for you. Just remember there is a fee.,,
+6,5,15,16,8000,2,Donuk,Huh? What? You giving me something to eat? Oh! You want to place things in storage? Ok.,,
+6,6,30,16,8000,2,Marie Jernes,"Jeez, another visitor again.",1235,1234
+6,7,11,16,8000,1,Cheek Chaser,"Who is this? Are you alone? Good, I hate crowds.",,
+6,8,31,16,8000,2,Kara Pruieren,"Damn it, not another customer. Do you know Seno? I really want to meet Seno.",,
+6,9,10,16,8000,1,Ian Diero,Do you have anything to deposit?,250,250
+6,10,20,16,8000,2,Nasia Zernes,Are there any items you wanna take out?,251,251
+6,11,43,16,8000,1,Agatha Hill,"Look at you! You are such a mess! You need to repair your armor. Tut, tut! For shame.",320,316 | 1333 | 1334 | 1335
+6,12,35,16,8000,1,Tererr,"Anything you wanna check in? I'll keep it stored safely, so don't worry it.",,
+6,13,15,16,8000,2,Hakei,Could you clean up your weapon? I hate the sight of blood.,,
+6,14,20,16,8000,2,Vanity Arien,You must be a traveler. Do you wanna deposit your valuables?,1278,1277
+6,15,49,16,8000,2,Fortika,"You should not underestimate me because I'm a little boy! Even though I'm young, I'm really powerful! You'll see!",,
+6,16,14,16,8000,1,Erina Probicio,"Oh! What is this? Who are you? What brought you here.. Ah Ah I forgot this is a warehouse. Oh, My!",1021 | 1344 | 1345 | 1346 | 1347 | 1348 | 1354,1020 | 1021 | 1025 | 1026 | 1343 | 1344 | 1345 | 1346 | 1347 | 1353
+6,17,44,16,8000,2,Vikus Loen,"It's the humans that have caused this war, I don't care what anyone says.",780,780
+6,18,48,16,8000,2,Zmeya,Rotten Helltooth Scoundrels! They keep attacking our poor town! Damn them all!,,
+6,19,43,16,8000,1,Yoanna Diero,Hand over your valuables if you wanna deposit them. Decide now.,,
+6,20,30,16,8000,2,Stera Hisuren,Which items are you going to deposit today?,,
+6,21,60,16,8000,2,Bestia,Come on over here. Do you want to use this warehouse?  You should be aware that it'll cost you extra.,,
+6,22,22,16,8000,1,Amelie Benet,"What do you wish to deposit? Don't worry about the charges, I'll bill you when you come back to check them out.",,
+6,23,34,16,8000,0,Genicon Greenstick,Feel free to use my warehouse friend. I'd be happy to keep your valuables for you.,,
+6,24,44,16,8000,0,Nebes Plapen,"If you are so worried about losing your valuables, you should let me hold them for you here in my warehouse.",,
+6,25,43,16,8000,1,Keidline Kind,I can't see a damn thing without my glasses. Are you human?,1073,1072
+6,26,8,16,8000,2,Feite Windsaga,"When you're as old as me, death is a blessing.",1086,1086
+6,27,14,16,8000,1,Evan cruser,"What are you talking about now? Speak louder...  If you have any complaints, just go away!",,
+6,28,27,16,8000,2,Shed jei,What do you want to keep?,,
+6,29,18,16,8000,0,Watson Orpheris,Hiccup~! Beer from Vault is the best! Hiccup~,,
+6,30,0,0,0,0,,,,
+6,31,0,0,0,0,,,,
+6,32,0,0,0,0,,,,
+6,33,0,0,0,0,,,,
+6,34,0,0,0,0,,,,

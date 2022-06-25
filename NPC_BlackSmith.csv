@@ -1,0 +1,45 @@
+NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
+3,1,38,16,8000,1,Luisan Xiphos,Nice to meet you. My name is Luisan. What would you like me to fix for you today?,,
+3,2,11,16,8000,1,Dober Dwellon,I loathe warriors who handle their weapons carelessly.,,
+3,3,11,16,8000,1,Duke Dephill,Who... Who are you? What brought you here?,32 | 168 | 1226,31 | 32 | 168 | 1225
+3,4,36,16,8000,2,Karna Kiesto,The finest weapons drenched in human blood can be found here.,208,208
+3,5,15,16,8000,2,Yaadin,"I'm the best blacksmith in the lands, so you should be honored standing before me.",207,72 | 207
+3,6,50,16,8000,2,Barren Deiatt,"I hope your words are short and to the point, because i hate people who make me wait.",1233,1232
+3,7,11,16,8000,1,Rio Grasys,Welcome.... I have been waiting for somone to pass by. The boredom is killing me.,,
+3,8,36,16,8000,2,Mori Durgrihen,"How did you know I was here? Are you following me?  No, I must be letting my paranoia get to me. I apologize. I shouldn't have suspected you of anything.",,
+3,9,11,16,8000,1,Ru Randolph,Did you come to fix my stuff?,252 | 253 | 254 | 255 | 256 | 257 | 264,252 | 253 | 254 | 255 | 256 | 257 | 264
+3,10,15,16,8000,2,Dertin,Give me anything you want fixed.,258 | 259 | 260 | 261 | 262 | 263 | 265,258 | 259 | 260 | 261 | 262 | 263 | 265
+3,11,11,16,8000,1,Doltin Coper,Becoming a leader requires full dedication. Anyone looking down on this job will suffer severe consequences.,975,975
+3,12,38,16,8000,1,Lavenne Watersaga,"I hate this war, but I will be happy to make weapons used for getting rid of those wretched Vail and Deatheaters.",976,976
+3,13,11,16,8000,1,Arnold Quick,Are you here to admire my muscles tiny person? Can you not see my rippling biceps gleaming in the sun? You are so small and insignificant compared to me. What do you want puny weakling?,353 | 354 | 355,353 | 354 | 355
+3,14,50,16,8000,2,Mutto,"What do you want? Do you need me to fix something? Hurry up and hand it to me already, can't you see I'm busy.",1179 | 1180,1178 | 1179
+3,15,27,16,8000,2,Dugon Hisuren,What do you want fixed? I'll make it like new again in only a matter of minutes!,979 | 1176,979 | 1175 | 1176 | 1177
+3,16,50,16,8000,2,Martelo,Is that human blood on your armor there? Good! I'll give you a discount. We need more warriors spilling the blood of those bastards!,980,980
+3,17,50,16,8000,2,Gisto,"I guarantee that anything i fix will be perfect. I may not be the fastest, but i get the job done and I won't have to do it twice. You don't like waiting? Go somewhere else.",,
+3,18,36,16,8000,2,Dulce Manches,Greetings. Let me see the items you want repaired.,,
+3,19,11,16,8000,1,Karl Bierhawk,What are you looking at?,977,977
+3,20,26,16,8000,1,Diet Weber,Yes I'm the blacksmith. Yes I fix stuff. Is there something you wanted?,,
+3,21,26,16,8000,1,Grena Randolph,What's up? You need something?,,
+3,22,52,16,8000,1,Duin Silverhawk,"Respect your elders! That's all the advice you're getting from me, so do with it what you will.",533,533
+3,23,11,16,8000,1,Steve Chaser,Hey there. What do you need repaired?,,1022
+3,24,50,16,8000,2,Palchion,I'll repair whatever you want. HA HA HA!,605,605
+3,25,19,16,8000,2,Kanon Kursan,Being a blacksmith is not an easy job. But at least it's way better than becoming a mercenary.,981 | 989,545 | 981
+3,26,36,16,8000,2,Siren Dearna,"I've got tons of weapons I need to repair, but I can help you with your repair needs as well.",,1292
+3,27,50,16,8000,2,Jyurable,Damn Helltooth scoundrels! I'll make all sorts of weapons to kill them.,563 | 564 | 565,563 | 564 | 565
+3,28,11,16,8000,1,Nor Randolph,"Do you wanna repair something, or are you asking me to do it for you?",585 | 588,585 | 588
+3,29,50,16,8000,2,Hetin,Give me any item you want fixed.,591 | 594,591 | 594
+3,30,27,16,8000,2,Ferrum,"Repairs or Lapis upgrades, i do it all baby! Awwww yeah.",982 | 1650 | 1653 | 1655 | 1656 | 1657 | 1658 | 1659 | 1660 | 1661 | 1663 | 1664 | 1665 | 1666 | 1667 | 1672 | 1675 | 1677 | 1678 | 1679 | 1680 | 1681 | 1682 | 1683 | 1686 | 1687 | 1688 | 1689 | 1690 | 1691 | 1694 | 1697 | 1699 | 1700 | 1701 | 1702 | 1703 | 1704 | 1705 | 1707 | 1708 | 1709 | 1710 | 1711 | 1712 | 1713,982 | 1652 | 1653 | 1655 | 1656 | 1657 | 1658 | 1659 | 1660 | 1661 | 1663 | 1664 | 1665 | 1666 | 1667 | 1674 | 1675 | 1677 | 1678 | 1679 | 1680 | 1681 | 1682 | 1683 | 1685 | 1686 | 1687 | 1688 | 1689 | 1690 | 1691 | 1696 | 1697 | 1699 | 1700 | 1701 | 1702 | 1703 | 1704 | 1705 | 1707 | 1708 | 1709 | 1710 | 1711 | 1712 | 1713
+3,31,11,16,8000,1,Brad Stone,"Jeez, look at your weapons and armor! Do you even know how to use that stuff?",978,978
+3,32,26,16,8000,1,Alicia Lopez,You got any good Lapis for upgrades? You need stuff fixed? Just let me know.,1584 | 1587 | 1588 | 1589 | 1590 | 1591 | 1592 | 1593 | 1594 | 1596 | 1597 | 1598 | 1599 | 1600 | 1605 | 1608 | 1610 | 1611 | 1612 | 1613 | 1614 | 1615 | 1616 | 1618 | 1619 | 1620 | 1621 | 1622 | 1623 | 1624 | 1627 | 1630 | 1632 | 1633 | 1634 | 1635 | 1636 | 1637 | 1638 | 1640 | 1641 | 1642 | 1643 | 1644 | 1645 | 1646,1586 | 1587 | 1588 | 1589 | 1590 | 1591 | 1592 | 1593 | 1594 | 1596 | 1597 | 1598 | 1599 | 1600 | 1607 | 1608 | 1610 | 1611 | 1612 | 1613 | 1614 | 1615 | 1616 | 1618 | 1619 | 1620 | 1621 | 1622 | 1623 | 1624 | 1629 | 1630 | 1632 | 1633 | 1634 | 1635 | 1636 | 1637 | 1638 | 1640 | 1641 | 1642 | 1643 | 1644 | 1645 | 1646
+3,33,34,16,8000,1,Narda Watersaga,"I've got some other people waiting, but if you give me your items I'll work on your stuff first.",,1112 | 1113 | 1116 | 1117 | 1118 | 1121 | 1122 | 1123
+3,34,50,16,8000,2,Pollekum,The Goddess has placed me on the path of smithing. I forge the finest weapons in the land. Do you require my talents?,,1127 | 1128 | 1131 | 1132 | 1133 | 1136 | 1137 | 1138
+3,35,11,16,8000,1,Wein rigal,HaHa! I'll forge it into a perfect weapon!,,
+3,36,66,16,8000,1,Beard Goodman,I'm the strongest!,,
+3,37,48,16,8000,2,Treber macerister,"Make sure this can protect you. Hm, but feel free to imagine what's going to happen.",,
+3,38,36,16,8000,2,Elen Supilia,Welcome!,,
+3,39,11,16,8000,1,Cartion,"It seems that you need to sharpen your sword, right?",,
+3,40,36,16,8000,0,Tollai Rolland,It's very convient that you can check every kinds of weapons at this auction.,,
+3,41,0,0,0,0,,,,
+3,42,0,0,0,0,,,,
+3,43,0,0,0,0,,,,
+3,44,0,0,0,0,,,,
