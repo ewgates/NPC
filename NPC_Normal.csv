@@ -40,7 +40,7 @@ NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
 7,39,8,16,8000,2,Mosen Kiesto,Misfortune will never come to us as long as the Goddess protects us.,152 | 203 | 212,151 | 212
 7,40,16,16,8000,2,Rogers Sqipus,"I, Rogers Sqipus have dedicated myself to God! So tell me what you want!",,
 7,41,8,16,8000,2,Muo Jenisys,"Hmm, you can call me Muo. Do you really want my help?",83 | 101,222
-7,42,21,16,8000,1,Yel Puielos,I'm a priest Yel. Tell me whatever you want to tell me.,125 | 126 | 127,125 | 126 | 127
+7,42,21,16,8000,1,Yel Puielos,I'm a priest Yel. Tell me whatever you want to tell me.,45 | 125 | 126 | 127,125 | 126 | 127
 7,43,16,16,8000,2,Jerad Kruizen,"Tell me what you wish, child of Etain.",,
 7,44,8,16,8000,2,Yemetis Temple Priest,Welcome to Yemetis Temple.,,
 7,45,24,16,8000,1,Charlie Lake,"My brother is in charge of security of Beika Vill. My brother is incredibly brave, so he isn't afraid of any kind of monster. (Grin)",6,5 | 6
@@ -473,7 +473,7 @@ NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
 7,472,104,16,8000,2,Gymir,I'm dying to see a building constructed with my own hands.,,
 7,473,106,16,8000,2,Bragi,"Hmm, We are absolutely short handed right now. I'm afraid we can't finish this job by the deadline.",,
 7,474,105,16,8000,2,Gerd,You look pretty strong. Just help us out here. Carrying stones is not an appropriate job for an old man like me!,,
-7,475,12,16,8000,0,Fylgien,Mr.Doris is right behind that waterfall over there.,,
+7,475,12,16,8000,0,Fylgien,Mr.Doris is right behind that waterfall over there.,,45
 7,476,74,16,8000,1,Warrior Kvasir,Don't stare at me like that! I was just following orders!,1203,1203
 7,477,89,16,8000,1,Assassin Embla,"Don't event try to tempt me, you will fail.",1204,1204
 7,478,86,16,8000,1,Pagan Vidarr,Are you doubting my abilities as a spy? Vidarr has nothing to be ashamed of.,1205,1205
