@@ -17,7 +17,7 @@ NPCType,NPCTypeID,Model,na6,na7,Country,NpcName,NpcWelcome,QuestStart,QuestEnd
 7,16,31,16,8000,2,Bebe Windia,"You came from outside of this village, right? How was your journey along the way? You must have a lot to talk about. Was it fantastic?",,
 7,17,37,16,8000,2,Gowu Windia,You bastard Bebe! Where on earth are you? I'm gonna kill him. Have you seen him?,,
 7,18,29,16,8000,1,Tania Dreabuh,"My name is Tania, a local official. What's up?",128 | 129 | 130 | 131 | 132 | 133,128 | 129 | 130 | 131 | 132 | 133
-7,19,23,16,8000,1,Led Ebans,What's the matter with you? Just leave me alone..,,
+7,19,23,16,8000,1,Led Ebans,What's the matter with you? Just leave me alone..,240,240
 7,20,23,16,8000,1,George Pilluon,Bring money first if you want to talk to me.,,134
 7,21,17,16,8000,2,Konn Karso,"So, you have business with me? Okay, I'm all ears. What is it?",135 | 136 | 137,135 | 136 | 137 | 245
 7,22,33,16,8000,2,Seno Deste,You want to speak with me and not with Konn Karso? I'm surprised. What is it you want?,139 | 140 | 141 | 142 | 143 | 144,139 | 140 | 141 | 142 | 143 | 144
